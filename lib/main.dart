@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'utils/app_router.dart';
+import 'application_layer/utils/app_router.dart';
 
 void main() {
   // Adding ProviderScope enables Riverpod for the entire project
